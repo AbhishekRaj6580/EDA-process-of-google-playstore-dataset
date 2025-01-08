@@ -1,7 +1,7 @@
 Hello 👋, Welcome you to here 
 This repository is about the EDA process for getting insights based on our problem quetions 
 The things i did here are like 
- 📍Understanding the data 
+ 📍Understanding the data
  📍finding the missing values 
  📍moved towards chnaging the numerical data - data type from object to specified data types 
  📍than getting into sorting the categorical and numerical data 
